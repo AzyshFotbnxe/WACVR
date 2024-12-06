@@ -6,6 +6,7 @@ on:
       - 'Assets/**'
       - 'Packages/**'
       - 'ProjectSettings/**'
+      - '.github/**'
   workflow_dispatch:
 
 jobs:
